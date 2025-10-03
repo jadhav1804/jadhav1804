@@ -1,12 +1,6 @@
-# create a local folder and add the README
-mkdir jadhav1804-profile
-cd jadhav1804-profile
+# 👋 Hi, I'm Riddhi Jadhav  
 
-# create README.md (use your editor or the echo below to start)
-cat > README.md <<'EOF'
-# 👋 Hi, I'm Riddhi Jadhav
-
-💡 AI & Web Developer | 🚀 Building smart apps with Python, Streamlit & ML | 🌱 Lifelong Learner
+💡 AI & Web Developer | 🚀 Building smart apps with Python, Streamlit & ML | 🌱 Lifelong Learner  
 
 ---
 
@@ -26,8 +20,8 @@ cat > README.md <<'EOF'
 ---
 
 ## 🌱 Currently
-- 🛠️ Working on **AI-based web apps**
-- 📖 Exploring **Machine Learning & Cloud**
+- 🛠️ Working on **AI-based web apps**  
+- 📖 Exploring **Machine Learning & Cloud**  
 
 ---
 
@@ -44,12 +38,3 @@ cat > README.md <<'EOF'
 ---
 
 ⚡ *“Code. Learn. Innovate. Repeat.”*
-EOF
-
-# initialize git and push
-git init
-git add README.md
-git commit -m "Add profile README"
-git branch -M main
-git remote add origin https://github.com/jadhav1804/jadhav1804.git
-git push -u origin main
